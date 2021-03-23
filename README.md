@@ -1,6 +1,6 @@
 # Resources-ABC
 
-<p align="center"><a href="http://www.abc-vit.in/" target="_blank"><img src="abc-w.png" width="460" height="345" title="Alpha Bio Cell" alt="Alpha Bio Cell"></a>
+<p align="center"><a href="http://www.abc-vit.in/" target="_blank"><img src="abc-w.png" width="460" height="450" title="Alpha Bio Cell" alt="Alpha Bio Cell"></a>
 </p>
 <br>
 
