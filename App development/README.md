@@ -38,9 +38,7 @@ before diving into app development is super important </p>
 <li> <h3>Coding</h3>
     <p>The first thing you should do is practice programming and have basic knowledge about object oriented programming languages like Java. Sources that can be used for this include </p>
 
-* [Geeksforgeeks](https://www.geeksforgeeks.org/java/)  and
-
-    [hackerrank](https://www.hackerrank.com/). For practicing more complex problems [hackerearth](https://www.hackerearth.com/) can also be used.
+* [Geeksforgeeks](https://www.geeksforgeeks.org/java/)  and [hackerrank](https://www.hackerrank.com/). For practicing more complex problems [hackerearth](https://www.hackerearth.com/) can also be used.
   
    </li>  
 
@@ -58,7 +56,7 @@ before diving into app development is super important </p>
 <p>These are a few tutorials you can watch on youtube:</p>
 
 * [Android Full Course](https://www.youtube.com/watch?v=aS__9RbCyHg)
-    * [Android Development for Beginners](https://www.youtube.com/watch?v=fis26HvvDII)
+* [Android Development for Beginners](https://www.youtube.com/watch?v=fis26HvvDII)
 
 </li>
 
