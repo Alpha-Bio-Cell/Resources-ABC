@@ -1,10 +1,10 @@
 # Resources-ABC
 
-<p align="center"><a href="http://www.abc-vit.in/" target="_blank"><img src="abc-w.png" width="460" height="450" title="Alpha Bio Cell" alt="Alpha Bio Cell"></a>
+<p align="center"><a href="http://www.abc-vit.in/" target="_blank"><img src="abc-w.png" width="360" height="350" title="Alpha Bio Cell" alt="Alpha Bio Cell"></a>
 </p>
 <h2 align="center">ALPHA BIO CELL</h2>
-    <h4 align="center">Breathe | In | Opportunity</h4>
-<p align="center">
+<h4 align="center">Breathe | In | Opportunity</h4>
+
     
 <p align="center">
 <a href="https://github.com/Alpha-Bio-Cell/Resources-ABC/issues">Report Bug</a>
@@ -12,6 +12,7 @@
     <a href="https://github.com/Alpha-Bio-Cell/Resources-ABC/issues">Request Feature</a>
   </p>
 <br>
+<!--
 <span style="display:block;text-align:center">
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -24,7 +25,7 @@
 
 </span>
 <br>
-
+-->
 
 <h1 align="center"> Why Should one learn Technical Skills </h1>
 
