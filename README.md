@@ -2,18 +2,28 @@
 
 <p align="center"><a href="http://www.abc-vit.in/" target="_blank"><img src="abc-w.png" width="460" height="450" title="Alpha Bio Cell" alt="Alpha Bio Cell"></a>
 </p>
-<br>
-
+<h2 align="center">ALPHA BIO CELL</h2>
+    <h4 align="center">Breathe | In | Opportunity</h4>
 <p align="center">
 <a href="https://github.com/Alpha-Bio-Cell/Resources/issues">Report Bug</a>
     ·
     <a href="https://github.com/Alpha-Bio-Cell/Resources/issues">Request Feature</a>
   </p>
 <br>
+
+<span style="display:block;text-align:center">
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Last commit][GitHub last commit-shield]][last commit-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![MIT License][license-shield]][license-url]
+
+</span>
 <br>
 
 <h1 align="center"> Why Should one learn Technical Skills </h1>
-<br>
 
 <p> Learning a technical skill has several benefits. Apart from making you a 
 more valuable candidate in the industry, it also makes you an integral part 
