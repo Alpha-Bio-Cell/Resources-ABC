@@ -20,7 +20,6 @@
 [![Issues][issues-shield]][issues-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-
 [![MIT License][license-shield]][license-url]
 
 </span>
