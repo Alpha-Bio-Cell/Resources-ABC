@@ -5,23 +5,27 @@
 <h2 align="center">ALPHA BIO CELL</h2>
     <h4 align="center">Breathe | In | Opportunity</h4>
 <p align="center">
-<a href="https://github.com/Alpha-Bio-Cell/Resources/issues">Report Bug</a>
+    
+<p align="center">
+<a href="https://github.com/Alpha-Bio-Cell/Resources-ABC/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Alpha-Bio-Cell/Resources/issues">Request Feature</a>
+    <a href="https://github.com/Alpha-Bio-Cell/Resources-ABC/issues">Request Feature</a>
   </p>
 <br>
-
 <span style="display:block;text-align:center">
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Last commit][GitHub last commit-shield]][last commit-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+
 [![MIT License][license-shield]][license-url]
 
 </span>
 <br>
+
 
 <h1 align="center"> Why Should one learn Technical Skills </h1>
 
