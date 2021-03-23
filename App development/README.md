@@ -18,7 +18,7 @@ you’re doing!
 <br>
 
 
-<p> Few basic steps to kickstart your android app skill development!! </p>
+<h3> Few basic steps to kickstart your android app skill development!! </h3>
 
 <ol>
   <li> <h3>Basic theory</h3>
@@ -36,30 +36,31 @@ before diving into app development is super important </p>
 
 
 <li> <h3>Coding</h3>
-    The first thing you should do is practice programming and have basic knowledge about object oriented programming languages like Java. Sources that can be used for this include 
-    * [Geeksforgeeks](https://www.geeksforgeeks.org/java/) 
-    and
+    <p>The first thing you should do is practice programming and have basic knowledge about object oriented programming languages like Java. Sources that can be used for this include </p>
+
+* [Geeksforgeeks](https://www.geeksforgeeks.org/java/)  and
 
     [hackerrank](https://www.hackerrank.com/). For practicing more complex problems [hackerearth](https://www.hackerearth.com/) can also be used.
   
    </li>  
 
    <li><h3>IDE Set Up</h3>
-    <p> To Set-up your IDE, refer to the following links and follow the steps:
+    <p> To Set-up your IDE, refer to the following links and follow the steps:</p>
+
     * [Install Android Studio](https://developer.android.com/studio/install)
     * [Install Android Studio](https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/)
     * [Install Android Studio](https://www.youtube.com/watch?v=5LMRbAiRkdY)
 
- </p>
+ 
  </li>
 
 <li><h3>Youtube Tutorials</h3>
 <p>These are a few tutorials you can watch on youtube:</p>
-</li>
+
 * [Android Full Course](https://www.youtube.com/watch?v=aS__9RbCyHg)
     * [Android Development for Beginners](https://www.youtube.com/watch?v=fis26HvvDII)
 
-
+</li>
 
   
 </ol>
