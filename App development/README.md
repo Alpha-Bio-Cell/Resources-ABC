@@ -42,14 +42,14 @@ before diving into app development is super important </p>
   
    </li>  
 
-   <li><h3>IDE Set Up</h3>
+ <li><h3>IDE Set Up</h3>
     <p> To Set-up your IDE, refer to the following links and follow the steps:</p>
 
-    * [Install Android Studio](https://developer.android.com/studio/install)
-    * [Install Android Studio](https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/)
-    * [Install Android Studio](https://www.youtube.com/watch?v=5LMRbAiRkdY)
+* [Install Android Studio](https://developer.android.com/studio/install)
+* [Install Android Studio](https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/)
+* [Install Android Studio](https://www.youtube.com/watch?v=5LMRbAiRkdY)
 
- 
+
  </li>
 
 <li><h3>Youtube Tutorials</h3>
