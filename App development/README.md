@@ -15,6 +15,7 @@ developer and charge clients for building apps for them.
 * Mobile applications get high revenue from app stores and in-app advertisements with 
 minimal cost price. Developing apps is a good way to make money if you know what 
 you’re doing!
+<br>
 
 
 <p> Few basic steps to kickstart your android app skill development!! </p>
@@ -31,13 +32,16 @@ before diving into app development is super important </p>
 
 * [Android Tutorials](https://www.javacodegeeks.com/android-tutorials)
 
-     </li>
+</li>
 
-   <li><h3>Coding</h3>
-    <p>The first thing you should do is practice programming and have basic knowledge about object oriented programming languages like Java. Sources that can be used for this include 
-    [geeksforgeeks](https://www.geeksforgeeks.org/java/) and 
+
+<li> <h3>Coding</h3>
+    The first thing you should do is practice programming and have basic knowledge about object oriented programming languages like Java. Sources that can be used for this include 
+    * [Geeksforgeeks](https://www.geeksforgeeks.org/java/) 
+    and
+
     [hackerrank](https://www.hackerrank.com/). For practicing more complex problems [hackerearth](https://www.hackerearth.com/) can also be used.
-  </p>
+  
    </li>  
 
    <li><h3>IDE Set Up</h3>
@@ -50,12 +54,13 @@ before diving into app development is super important </p>
  </li>
 
 <li><h3>Youtube Tutorials</h3>
-<p>These are a few tutorials you can watch on youtube:
-    * [Android Full Course](https://www.youtube.com/watch?v=aS__9RbCyHg)
+<p>These are a few tutorials you can watch on youtube:</p>
+</li>
+* [Android Full Course](https://www.youtube.com/watch?v=aS__9RbCyHg)
     * [Android Development for Beginners](https://www.youtube.com/watch?v=fis26HvvDII)
 
-</p>
-</li>
+
+
   
 </ol>
 
