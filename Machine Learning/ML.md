@@ -30,9 +30,9 @@ association rules, and visualization.
 
 Link to install weka software - [https://sourceforge.net/projects/weka/](https://sourceforge.net/projects/weka/)
 
-<br>
-
 [Weka documentation](https://waikato.github.io/weka-wiki/documentation/)
+
+<br>
 
 ##  To Setup Your Python Environment for Machine Learning with Anaconda
 
