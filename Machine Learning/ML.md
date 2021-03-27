@@ -43,6 +43,4 @@ machine learning projects. The most common text editor used for writing machine 
 Google Colab 
 is a cloud based environment product by google for working with python projects
 
-<br>
-
 [Link to install anaconda navigator](https://docs.anaconda.com/anaconda/install/)
