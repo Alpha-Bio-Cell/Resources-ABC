@@ -18,7 +18,7 @@ you’re doing!
 <br>
 
 ## AlphaBuzz(Blog by AlphaBioCell)
-- 📝Before getting your hands dirty with the android app dev refer 
+📝 Before getting your hands dirty with the android app dev refer 
 [An Introduction to App Development by Arushi Narayan](http://www.abc-vit.in/AlphaBuzz/pages/articles/b1/appdev.html)
 
 
