@@ -9,9 +9,7 @@
 
 ## What is Flutter?
 Flutter is an open-source UI software development kit created by Google used for building beautiful, natively compiled applications for
-[mobile](https://flutter.dev/docs), [web](https://flutter.dev/web) and [desktop](https://flutter.dev/desktop) from a single codebase. Flutter apps are written in the Dart language. Dart syntax is easy to understand for JavaScript or Java developers as it supports most of the object-oriented concepts. Flutter works with any development tool (or none at all) but includes editor plug-ins for both 
-[Visual Studio Code](https://code.visualstudio.com/) and [IntelliJ](https://www.jetbrains.com/idea/) / [Android Studio](https://developer.android.com/studio).
-
+[mobile](https://flutter.dev/docs), [web](https://flutter.dev/web) and [desktop](https://flutter.dev/desktop) from a single codebase. Flutter apps are written in the Dart language. Dart syntax is easy to understand for JavaScript or Java developers as it supports most of the object-oriented concepts.
 <br>
 
 ## Why Flutter?
@@ -19,6 +17,7 @@ We already know there are a lot of frameworks out there that provide the cross-p
 * Fast Development
 * Expressive and flexible User Interface
 * Native performance
+<br>
 
 ## Flutter Introductory Videos
 * [Introducing flutter features in 10 min](https://youtu.be/wgTBLj7rMPM)
@@ -50,7 +49,7 @@ These are few of the videos that you might find helpful to understand basics of 
  ## Set up an editor for Flutter
  once you are done with installing flutter sdk next you need is a text editor combined with command-line tools. The most commonly used test editors for app dev are <b>Android Studio, VS code and IntelliJ</b>
  <br>
- 
+
  Go through [this](https://flutter.dev/docs/get-started/editor) link to set up you text editor
  
 
