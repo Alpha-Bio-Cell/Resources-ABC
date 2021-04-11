@@ -9,10 +9,8 @@
 
 ## What is Flutter?
 Flutter is an open-source UI software development kit created by Google used for building beautiful, natively compiled applications for
-
-[mobile]{https://flutter.dev/docs}, 
-[web]{https://flutter.dev/web}, and 
-[desktop]{https://flutter.dev/desktop} from a single codebase.
+[mobile](https://flutter.dev/docs), [web](https://flutter.dev/web) and [desktop](https://flutter.dev/desktop) from a single codebase. Flutter apps are written in the Dart language. Dart syntax is easy to understand for JavaScript or Java developers as it supports most of the object-oriented concepts. Flutter works with any development tool (or none at all) but includes editor plug-ins for both 
+[Visual Studio Code](https://code.visualstudio.com/) and [IntelliJ](https://www.jetbrains.com/idea/) / [Android Studio](https://developer.android.com/studio).
 
 <br>
 
@@ -23,10 +21,8 @@ We already know there are a lot of frameworks out there that provide the cross-p
 * Native performance
 
 ## Flutter Introductory Videos
-
-* [Introducing flutter features in 10 min]{https://youtu.be/wgTBLj7rMPM}
-
-* [How is Flutter Different for App Development]{https://www.youtube.com/watch?v=l-YO9CmaSUM}
+* [Introducing flutter features in 10 min](https://youtu.be/wgTBLj7rMPM)
+* [How is Flutter Different for App Development](https://www.youtube.com/watch?v=l-YO9CmaSUM)
 
 <br>
 
@@ -35,42 +31,30 @@ Flutter is fast and easy, If you are familiar with java or any object-oriented l
 <br>
 These are few of the videos that you might find helpful to understand basics of Dart Programming.
 
-* [Dart Programming by Smarthered]{https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q}
-
-* [Dart Tutorial by freeCodeCamp.org]{https://youtu.be/Ej_Pcr4uC2Q}
-
-* [Dart for Beginners by TensorProgramming]{https://www.youtube.com/playlist?list=PLJbE2Yu2zumDjfrfu8kisK9lQVcpMDDzZ}
+* [Dart Programming by Smarthered](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
+* [Dart Tutorial by freeCodeCamp.org](https://youtu.be/Ej_Pcr4uC2Q)
+* [Dart for Beginners by TensorProgramming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDjfrfu8kisK9lQVcpMDDzZ)
 
 <br>
  For those who learn better by reading through tutorials and blogs
  
- * [Dart documentation]{https://dart.dev/tutorials}
- * [Dart by tutorialspoint]{https://www.tutorialspoint.com/dart_programming/index.htm}
+ * [Dart documentation](https://dart.dev/tutorials)
+ * [Dart by tutorialspoint](https://www.tutorialspoint.com/dart_programming/index.htm)
  
  <br>
+
  ## How to Install Flutter?
  Here’s the link to the developer docs where you can start to install the flutter in the OS you have.
- [Install]{https://flutter.dev/docs/get-started/install}
+ [Install](https://flutter.dev/docs/get-started/install)
+
+ ## Set up an editor for Flutter
+ once you are done with installing flutter sdk next you need is a text editor combined with command-line tools. The most commonly used test editors for app dev are <b>Android Studio, VS code and IntelliJ</b>
+ <br>
+ 
+ Go through [this](https://flutter.dev/docs/get-started/editor) link to set up you text editor
  
 
-Flutter is an open-source UI software development kit created by Google. It is used to develop 
-applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia and the web from a 
-single codebase. Flutter apps are written in the Dart language. Dart syntax is easy to understand 
-for JavaScript or Java developers as it supports most of the object-oriented concepts. Flutter 
-works with any development tool (or none at all) but includes editor plug-ins for both 
-[Visual Studio Code](https://code.visualstudio.com/) and [IntelliJ](https://www.jetbrains.com/idea/) / [Android Studio](https://developer.android.com/studio).
 
-<br>
-
-Android app development has separate files for front-end and back-end, whereas Flutter uses 
-a single language for front and back end and uses a reactive framework.
-<br>
-
-Link to install - [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
-
-<br>
-
-Flutter documentation - [https://flutter.dev/docs/](https://flutter.dev/docs/)
 <br>
 
 <h3> If you found this repository helpful do give a 🌟 </h3>
