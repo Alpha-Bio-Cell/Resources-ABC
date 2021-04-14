@@ -1,6 +1,6 @@
 # APP DEVELOPMENT
 
-<p align="center"><a href="https://developer.android.com/studio" target="_blank"><img src="https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1" width="360" height="350" title="Android" alt="Android Studio logo"></a>
+<p align="center"><a href="https://developer.android.com/studio" target="_blank"><img src="https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1" width="460" height="350" title="Android" alt="Android Studio logo"></a>
 </p>
 
 <h2 align="center">Why should I learn app dev </h1>
