@@ -59,7 +59,7 @@ These are few of the videos that you might find helpful to understand basics of 
  * [Flutter Crash Course for Beginners 2021](https://youtu.be/Pns6DzAi-Hg)  
 
 ## Flutter Projects
-Developing real-world projects is the best way to hone your skills and materialize your theoretical knowledge into practical experience. So here is the list of BEGINNER TO EXPERT level project ideas that would help you to gain a practical experience.
+Developing real-world projects is the best way to hone your skills and materialize your theoretical knowledge into practical experience. So here is the list of BEGINNER TO EXPERT level project ideas that would help you to gain a practical experience.<br>
 <b> Starter Project ideas </b>
 * [Calculator](https://youtu.be/l4bLPfS1uik)
 * [Login UI](https://youtu.be/efbB8-x9T2c)
@@ -80,7 +80,5 @@ Developing real-world projects is the best way to hone your skills and materiali
 
  
  Hope now you have all the resorces required to be a  hybrid app developer 🤩
-
 <br>
-
 <h3> If you found this repository helpful do give a 🌟 </h3>
