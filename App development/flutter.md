@@ -74,11 +74,12 @@ Developing real-world projects is the best way to hone your skills and materiali
 
 <b> Advanced Projects Ideas </b>
 * [Covid-19 APP](https://youtu.be/zx6uMCoW2gQ)
-* []
+* [Blog App](https://youtu.be/_ed4783G5yY)
+* [Whatsapp UI clone](https://youtu.be/2Tyrofn6zPg)
+* [Cryptocurrency app](https://youtu.be/cPlaYS4eqe4)
 
  
- 
- Hope now you have all the resorces required to be a app developer 🤩
+ Hope now you have all the resorces required to be a  hybrid app developer 🤩
 
 <br>
 
