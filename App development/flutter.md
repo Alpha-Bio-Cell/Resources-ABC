@@ -52,7 +52,33 @@ These are few of the videos that you might find helpful to understand basics of 
 
  Go through [this](https://flutter.dev/docs/get-started/editor) link to set up you text editor
  
+ ## Flutter crash course for beginners
+ These youtube tutorials contains everything from setting up your editor and get your first flutter app running to covering all the basic concepts needed to get started.
+ 
+ * [Crash Course by academind](https://youtu.be/x0uinJvhNxI)  
+ * [Flutter Crash Course for Beginners 2021](https://youtu.be/Pns6DzAi-Hg)  
 
+## Flutter Projects
+Developing real-world projects is the best way to hone your skills and materialize your theoretical knowledge into practical experience. So here is the list of BEGINNER TO EXPERT level project ideas that would help you to gain a practical experience.
+<b> Starter Project ideas </b>
+* [Calculator](https://youtu.be/l4bLPfS1uik)
+* [Login UI](https://youtu.be/efbB8-x9T2c)
+* [Emoji UI](https://youtu.be/A1ski_fjSlY)
+* [Coffee Shop UI](https://youtu.be/pn5gfGIfBpI)
+
+<b> Intermediate Project ideas </b>
+ * [Pokemon UI](https://youtu.be/yeXJqZCiwTQ)
+ * [Tiktok UI](https://youtu.be/kJ2mGh5BLYk)
+ * [Recipe App](https://youtu.be/bmmTY2lHaks)
+ * [Furniture App UI](https://youtu.be/ZtPe6Zu6BA4)
+
+<b> Advanced Projects Ideas </b>
+* [Covid-19 APP](https://youtu.be/zx6uMCoW2gQ)
+* []
+
+ 
+ 
+ Hope now you have all the resorces required to be a app developer 🤩
 
 <br>
 
