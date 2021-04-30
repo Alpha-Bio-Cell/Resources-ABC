@@ -4,10 +4,34 @@
 </p>
 <br>
 
+## What is Machine Learning?
+Machine learning is a method of data analysis that automates analytical model
+building. It is a branch of artificial intelligence based on the idea that systems can learn from
+data, identify patterns and make decisions with minimal human intervention.
+<br>
 Machine learning (ML) is the study of computer algorithms that improve automatically through 
 experience. It is the field of study that gives computers the capability to learn without being 
-explicitly programmed. It is a subset of artificial intelligence. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is 
+explicitly programmed. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is 
 difficult or unfeasible to develop conventional algorithms to perform the needed tasks.
+
+## Why Machine Learning?
+Data is the lifeblood of all business. Data-driven decisions increasingly make the
+difference between keeping up with competition or falling further behind. Machine learning
+can be the key to unlocking the value of corporate and customer data and enacting decisions
+that keep a company ahead of the competition.
+
+## Introductory Videos :pen:
+[Introduction to AI and ML](https://www.youtube.com/watch?v=JMUxmLyrhSk) - no
+need to watch full video for now just go through basic intuition
+
+## What to start with First?
+* <b> Mathematics -</b> Linear algebra , Integral calculus , differential calculus , partial
+derivatives,Matrices and Determinants , Combinatorics.
+* <b> Probability and Statistics - </b> Various distributions , Mean , Variance,
+hypothesis and other topics. You can refer 
+[this tutorial](https://www.youtube.com/watch?v=1VSZtNYMntM) in order to practise these topics
+
+
 
 <b> 1) ) ML + Python (scikit-learn) </b>
 The programming languages used in machine learning are Python, Matlab, R. Python if a most 
