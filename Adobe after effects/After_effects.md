@@ -48,7 +48,7 @@ So if you dont want to commit and buy the whole version of after effects. Then r
 * <b> Learn the Skills Clients Are Looking For: </b> Look and listen for what clients need. Focus on creating Explainer Videos, Commercials, Lower Thirds, Graphs, Graphics, Intros, Outros, Logo Animation, etc. These are far more likely to pay your bills.
 * <b> Share Your Work: </b> Sometimes sharing your work can be just as challenging as the work itself. It takes a special kind of vulnerability to share work online, but one of the best ways to get feedback is to get your work out there. You never know what projects may arise from a simple instagram share. 
 
-## List of awesome to Learn After Effects
+## List of websites/tutorial to Learn After Effects
 * [Adobe After Effects](https://helpx.adobe.com/support/after-effects.html)
 * [School of Motion](https://www.schoolofmotion.com/search-results?templateTypes=TUTORIAL)
 * [MotionWorks](https://motionworks.net/tutorials/)
