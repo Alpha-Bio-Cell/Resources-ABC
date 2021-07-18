@@ -79,6 +79,6 @@ Developing real-world projects is the best way to hone your skills and materiali
 * [Cryptocurrency app](https://youtu.be/cPlaYS4eqe4)
 
  
- Hope now you have all the resorces required to be a  hybrid app developer 🤩
+ Hope now you have all the resources required to be a  hybrid app developer 🤩
 <br>
 <h3> If you found this repository helpful do give a 🌟 </h3>

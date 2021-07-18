@@ -61,3 +61,9 @@ If you're looking for a fun challenge check out
 [30 Days of After Effects Series](https://www.schoolofmotion.com/collection/30-days-of-after-effects) this is a fun deep-dive course into some essential After Effects concepts.<br>
 You can also check out this free 10-day course called 
 [The Path to MoGraph](https://www.schoolofmotion.com/the-path-to-mograph) The series is a deep-dive into the real process of creating motion design in the 21st century. In the course you'll get a tour of four incredible motion design studios. You'll also get a quick guided tour of After Effects, Photoshop, Illustrator and more.
+<br>
+
+<!--## After Effects Projects
+Developing real-world projects is the best way to hone your skills and materialize your theoretical knowledge into practical experience. So here is the list of  project ideas with sample code tutorial that would help you to gain a practical experience.<br>
+
+* [Calculator](https://youtu.be/l4bLPfS1uik)-->
