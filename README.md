@@ -38,6 +38,7 @@ feet financially. Although learning a new skill takes time, commitment, a
 strong heart, and persistence we at ABC will be here by your side to guide 
 and help you out in every step of the way.</p>
 -->
+<br>
 
 ## Description 
 Want to lear a new technical skill but dont know where to start and how to get a proper roadmap for the same?
@@ -47,7 +48,7 @@ Dont worry this repository would take care of all the necessary resources requir
 * [After Effects](Adobe-after-effects\After_effects.md)
 * [Android App Development](App-development\Android_app.md)
 * [Arduino](Ardunio\Aurdino.md)
-* [Artificial Intelligence](Artificial Intelligence\Artificial_Intelligence.md)
+* [Artificial Intelligence](Artificial-Intelligence\Artificial_Intelligence.md)
 * [Bioinformatics](Bioinformatics\Bioinformatics.md)
 * [CAD](CAD\CAD.md)
 * [Computer Vision](Computer-Vision\Computer_vision.md)
