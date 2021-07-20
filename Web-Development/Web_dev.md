@@ -4,13 +4,14 @@
 </p>
 <br>
 
-This is an open-source repository for everyone out there who wants to learn Web Development
+<h3 align="center">This is an open-source repository for everyone out there who wants to learn Web Development</h3>
 
 ## What is Webdev?
 Web development is involved in developing a website from scratch. It uses variety of coding languages which include <b>html, css, JavaScript, bootstrap etc</b>. It is generally broken down into
 * [Frontend](#frontend)
 * [Backend](#backend)
- <b>frontend and backend side</b>.<br>A front-end dev takes care of layout, design and interactivity mainly using html, css and JavaScript. <!--The visual component and features including drop down menu, navigation bars, etc. are included.-->
+<br>
+A front-end dev takes care of layout, design and interactivity mainly using html, css and JavaScript. <!--The visual component and features including drop down menu, navigation bars, etc. are included.-->
  <br> The backend developer takes care of things behind the curtains. The data is stored in a database say MySQL which servers as a communication to the browser. It consists of server that hosts the website , application for running it and database to contain the data. 
 
 <!--## AlphaBuzz(Blog by AlphaBioCell)
